@@ -6,7 +6,7 @@ class main extends person{
     person mPerson = new person();
     mPerson.setName("Alok");
 
-    System.out.println("Person Name: " + mPerson.getName());
+    System.out.println("Dj " + mPerson.getName());
 
     }
 }
